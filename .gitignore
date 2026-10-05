@@ -6,6 +6,3 @@
 *_files/
 /.quarto/
 /_site/
-.httr-oauth
-.DS_Store
-.quarto
