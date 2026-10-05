@@ -1,7 +1,7 @@
 ---
 title: "Fox to Fracture Article Code"
 author: "Anonymous"
-format: pdf
+format: html
 editor: visual
 editor_options: 
   chunk_output_type: console
