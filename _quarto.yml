@@ -4,7 +4,7 @@ project:
   render:
     - index.qmd
 website:
-  title: "Fox to Fracture"
+  title: "Was Trump to Blame for the January 6 Capitol Attacks? Republicans Couldn't Decide."
 
 format:
   html:
