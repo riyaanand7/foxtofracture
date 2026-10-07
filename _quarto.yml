@@ -4,11 +4,11 @@ project:
   render:
     - index.qmd
 website:
-  title: "Was Trump to Blame for the January 6 Capitol Attacks? Republicans Couldn't Decide."
+  title: "Right-wing media split GOP loyalties after January 6, 2021"
 
 format:
   html:
-    theme: cosmo
+    theme: journal
     toc: true
     code-fold: true
     number-sections: true
