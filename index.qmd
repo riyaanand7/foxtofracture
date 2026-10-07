@@ -1,9 +1,9 @@
 ---
-title: "Right-wing media split GOP loyalties after January 6, 2021"
+title: "Right-wing media split GOP loyalties after January 6"
 author: "Riya Anand"
 format:
   html:
-    theme: cosmo
+    theme: journal
     toc: true
 ---
 
